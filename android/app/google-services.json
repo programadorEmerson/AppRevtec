@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "10701064903",
+    "firebase_url": "https://revtecbioquimicaltda.firebaseio.com",
+    "project_id": "revtecbioquimicaltda",
+    "storage_bucket": "revtecbioquimicaltda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10701064903:android:89bf47b5050bff5eee0ce2",
+        "android_client_info": {
+          "package_name": "br.com.revtec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10701064903-i9lkg0pgid6dni1n7fsmi9gh872lilf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.revtec",
+            "certificate_hash": "698a410f388393ea8fb44784789b8a3a4cb9806d"
+          }
+        },
+        {
+          "client_id": "10701064903-k8tfhsdahnoa6fii4erf7fjb557pglc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFcArj8UW9f1xLdusRYCexJ6TTyeex-cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10701064903-k8tfhsdahnoa6fii4erf7fjb557pglc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10701064903:android:885c026d8975432eee0ce2",
+        "android_client_info": {
+          "package_name": "com.revtec.bioquimica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10701064903-pnq68ne8hflvn66cm95lnb8o40odk3qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.revtec.bioquimica",
+            "certificate_hash": "e197690085cbc5ca5e7bbe072e2adfc349babf7d"
+          }
+        },
+        {
+          "client_id": "10701064903-k8tfhsdahnoa6fii4erf7fjb557pglc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFcArj8UW9f1xLdusRYCexJ6TTyeex-cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10701064903-k8tfhsdahnoa6fii4erf7fjb557pglc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
